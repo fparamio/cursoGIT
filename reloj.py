@@ -1,4 +1,9 @@
 # Reloj hecho con Python, Tkinter y time
+# croquetas
+# MAs croquetas
+
+
+
 from tkinter import *
 import time
  
