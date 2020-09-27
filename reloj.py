@@ -1,7 +1,9 @@
 # Reloj hecho con Python, Tkinter y time
 # croquetas
-# MAs croquetas
-# Mucísmas croquetas
+# Más croquetas
+# Muchísmas croquetas
+# Más que muchísimas croquetas
+
 
 
 
